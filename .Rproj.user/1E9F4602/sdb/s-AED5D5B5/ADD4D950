@@ -1,0 +1,17 @@
+{
+    "contents" : "path <- paste0(getwd(), \"/twitterR.R\")\nif(file.exists(path)){\n  source(path)\n}",
+    "created" : 1428708411684.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3000730258",
+    "id" : "ADD4D950",
+    "lastKnownWriteTime" : 1428710313,
+    "path" : "~/twitterR/demo/twitter_demo.R",
+    "project_path" : "demo/twitter_demo.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
